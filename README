@@ -1,13 +1,1 @@
-david96, itzhak
-David Rotenberg (315518175), Itzhak Stern (302789722)
-EX: 3
 
-FILES:
-Job.h - the statements of the Job class
-Job.cpp - the implementation of the Job class  
-Barrier.h - the statements of the Barrier class
-Barrier.cpp - the implementation of the Barrier class  
-MapReduceFramework.cpp - the framework of the map and reduce.
-README -- this file
-
-REMARKS:
